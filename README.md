@@ -2,7 +2,7 @@
 
 Repo: https://github.com/CsiszerAlpar/umfst-p03-menza
 Élő demó: https://csiszeralpar.github.io/umfst-p03-menza/
-Készítette: Hallgató Neve, Csoport
+Készítette: Csiszer Alpar, Info_LM 3. ev
 
 ## A projekt áttekintése
 A feladat célja egy akadálymentes, szemantikus HTML-en alapuló heti menza táblázat kialakítása volt, amely modern reszponzív dizájnnal (mobil kártyanézet), nyomtatási optimalizációval és Schema.org Menu strukturált adatokkal támogatja a felhasználókat, a képernyőolvasókat és a keresőmotorokat.
