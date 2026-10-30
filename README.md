@@ -1,6 +1,6 @@
 # Kollégiumi Menza Heti Menü – Projektjelentés
 
-Repo: https://github.com/felhasznalo/umfst-p03-menza
+Repo: https://github.com/CsiszerAlpar/umfst-p03-menza
 Élő demó: https://felhasznalo.github.io/umfst-p03-menza
 Készítette: Hallgató Neve, Csoport
 
